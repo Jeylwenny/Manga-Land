@@ -1,0 +1,64 @@
+nav.menu-nav ul li.btn{
+	display: inline-block;
+	list-style-type: none;
+}nav.menu-nav ul li.btn a{
+	color: white;
+	background-color: purple;
+	text-decoration: none;
+	padding: 10px;
+	font-size: 20px;
+}
+
+nav.menu-nav ul li.btn:hover a{
+	color: yellow;
+	background-color: purple;
+	transition: 0.5s all;
+
+}
+
+
+p.well{
+	text-align: center;
+	color: white;
+	background: url(https://i.pinimg.com/originals/fd/1b/2c/fd1b2ca8aea70b1a632e98a782143e4e.jpg);
+	font-weight: bold;
+	font-size: 35px
+}
+
+p.viva{
+	text-align: center;
+	color: #CF5A5E;
+font-weight: bold;
+font-size: 30px
+}
+
+
+body{
+	background-color: #F296C1
+}
+
+h2.head{
+	color : #fff;
+	text-align: left;
+	font-size: 20px;
+	padding-left: 100px;
+}
+
+a{
+	color: #E21C44;
+}
+
+h3.hand{
+	text-align: left;
+	color: #8D4654;
+	font-size: 30px;
+	font-weight: 200px;
+}
+
+h4.bob{
+	text-align: left;
+	color: #B7696B;
+	font-size: 20px;
+	font-weight: 150px
+
+}

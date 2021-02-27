@@ -1,0 +1,74 @@
+nav.menu-nav ul li.btn{
+	display: inline-block;
+	list-style-type: none;
+}nav.menu-nav ul li.btn a{
+	color: white;
+	background-color: purple;
+	text-decoration: none;
+	padding: 10px;
+	font-size: 20px;
+}
+
+nav.menu-nav ul li.btn:hover a{
+	color: yellow;
+	background-color: purple;
+	transition: 0.5s all;
+
+}
+
+
+p.well{
+	text-align: center;
+	color: white;
+	background: url(https://rlv.zcache.fr/tissu_tanjiro_kamada-r6ff69b8dbb084d73ab59dea16069f05a_z191d_307.jpg?rlvnet=1&rvtype=content);
+	font-weight: bold;
+	font-size: 35px
+}
+
+p.viva{
+	text-align: center;
+	color: #000;
+font-weight: bold;
+font-size: 30px
+}
+
+
+body{
+	background-color: #CDF2D8;
+}
+
+h2.head{
+	text-align: left;
+	font-size: 20px;
+	padding-left: 100px;
+}
+
+a{
+	color: #E21C44;
+}
+
+h3.hand{
+	text-align: left;
+	color: #47024C;
+	font-size: 30px;
+	font-weight: 200px;
+}
+
+h4.bob{
+	text-align: left;
+	color: #104F46;
+	font-size: 20px;
+	font-weight: 150px
+}
+
+ /*pillier */ 
+img.sword{
+	float: right;
+	width: 10vw;
+}
+
+ }
+
+img.pillier{
+width : 50vw ;
+}
